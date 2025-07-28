@@ -8,6 +8,11 @@ Jetson nano - tello EDU - Controller
 ### REFERENCE
 **https://github.com/hanyazou/TelloPy**
 
+### VIRTUAL ENVIRONMENT
+```
+$ python3 -m venv --system-site-packages .venv
+```
+
 #### SIMPLE TAKEOFF
 ```
 $ python -m tellopy.examples.simple_takeoff
