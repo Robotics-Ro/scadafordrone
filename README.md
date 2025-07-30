@@ -12,6 +12,11 @@ Jetson nano - tello EDU - Controller
 ```
 $ python3 -m venv --system-site-packages .venv
 ```
+#### INSTALL PYTORCH FOR JETSON ORIN
+```
+$ pip install torchvision torchaudio --index-url https://pypi.jetson-ai-lab.io/jp6/cu126 --extra-index-url https://pypi.org/simple/
+$ pip install torchvision torchaudio --index-url https://pypi.jetson-ai-lab.io/jp6/cu126 --extra-index-url https://pypi.org/simple/
+```
 
 #### SIMPLE TAKEOFF
 ```
