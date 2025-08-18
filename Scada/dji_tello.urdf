@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot name="scene">
+  <link name="scene">
+    <visual>
+      <origin xyz="282.59705 121.32121 310.56912" rpy="0. 0. 0."/>
+      <geometry>
+        <mesh filename="file:///home/ro/Downloads/meshes/Object_0.obj" scale="1. 1. 1."/>
+      </geometry>
+    </visual>
+    <visual>
+      <origin xyz="283.648 120.798676 309.11313 " rpy="0. 0.785398 0. "/>
+      <geometry>
+        <mesh filename="file:///home/ro/Downloads/meshes/Object_1.obj" scale="1. 1. 1."/>
+      </geometry>
+    </visual>
+    <visual>
+      <origin xyz="283.26074 121.3092 -314.7005 " rpy="0. 0. 0."/>
+      <geometry>
+        <mesh filename="file:///home/ro/Downloads/meshes/Object_2.obj" scale="1. 1. 1."/>
+      </geometry>
+    </visual>
+    <visual>
+      <origin xyz="282.70172 120.81096 -316.24973" rpy="0. 0.7853982 0. "/>
+      <geometry>
+        <mesh filename="file:///home/ro/Downloads/meshes/Object_3.obj" scale="1. 1. 1."/>
+      </geometry>
+    </visual>
+    <visual>
+      <origin xyz="-318.81873 120.94817 -315.32727" rpy="0. 0. 0."/>
+      <geometry>
+        <mesh filename="file:///home/ro/Downloads/meshes/pervane_003_5_Object_12_Object_4.obj" scale="1. 1. 1."/>
+      </geometry>
+    </visual>
+    <visual>
+      <origin xyz="-317.54532 120.78476 -315.7648 " rpy="0. 0.7853982 0. "/>
+      <geometry>
+        <mesh filename="file:///home/ro/Downloads/meshes/Object_5.obj" scale="1. 1. 1."/>
+      </geometry>
+    </visual>
+    <visual>
+      <origin xyz="-319.3255 120.948006 311.7178 " rpy="0. 0. 0."/>
+      <geometry>
+        <mesh filename="file:///home/ro/Downloads/meshes/Object_16_Object_6.obj" scale="1. 1. 1."/>
+      </geometry>
+    </visual>
+    <visual>
+      <origin xyz="-321.46527 120.784935 313.57178 " rpy="0. 0.7853981 0. "/>
+      <geometry>
+        <mesh filename="file:///home/ro/Downloads/meshes/Object_7.obj" scale="1. 1. 1."/>
+      </geometry>
+    </visual>
+    <visual>
+      <origin xyz="-0.3038441 66.45448 -0.040201 " rpy="0. 0. -1.5707961"/>
+      <geometry>
+        <mesh filename="file:///home/ro/Downloads/meshes/Object_20_Object_8.obj" scale="1. 1. 1."/>
+      </geometry>
+    </visual>
+    <visual>
+      <origin xyz="-0.3038441 66.45448 -0.040201 " rpy="0. 0. -1.5707961"/>
+      <geometry>
+        <mesh filename="file:///home/ro/Downloads/meshes/Object_9.obj" scale="1. 1. 1."/>
+      </geometry>
+    </visual>
+    <visual>
+      <origin xyz="-0.3038441 66.45448 -0.040201 " rpy="0. 0. -1.5707961"/>
+      <geometry>
+        <mesh filename="file:///home/ro/Downloads/meshes/Object_22_Object_10.obj" scale="1. 1. 1."/>
+      </geometry>
+    </visual>
+    <visual>
+      <origin xyz="-0.3038441 66.45448 -0.040201 " rpy="0. 0. -1.5707961"/>
+      <geometry>
+        <mesh filename="file:///home/ro/Downloads/meshes/Object_11.obj" scale="1. 1. 1."/>
+      </geometry>
+    </visual>
+    <visual>
+      <origin xyz="-205.36983 63.6819 -2.3660717" rpy="0. 0. -0.0000013"/>
+      <geometry>
+        <mesh filename="file:///home/ro/Downloads/meshes/Object_25_Object_12.obj" scale="1. 1. 1."/>
+      </geometry>
+    </visual>
+    <visual>
+      <origin xyz="-172.64357 67.118065 -67.51162 " rpy="0.6475797 -1.5707953 -0.6475815"/>
+      <geometry>
+        <mesh filename="file:///home/ro/Downloads/meshes/Object_13.obj" scale="1. 1. 1."/>
+      </geometry>
+    </visual>
+  </link>
+</robot>
